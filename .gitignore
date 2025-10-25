@@ -1,0 +1,19 @@
+# Entorno virtual de Python
+venv/
+
+# Archivos de compilación de Python
+__pycache__/
+*.pyc
+
+# Archivos de base de datos SQLite locales
+instance/
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de log
+*.log
+
+# Archivos de bases de datos SQLite adicionales
+*.sqlite
